@@ -1,3 +1,9 @@
+# cite
+
+*Kerstin Scheubert, Franziska Hufsky, and Sebastian Böcker.*  
+__Significance of metabolite identifications from searching mass spectral libraries.__  
+submitted.
+
 # Dependencies
 
  - commons-math3-3.4.1
