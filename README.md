@@ -18,3 +18,7 @@
 
 # TODO
  - port to gradle
+ 
+# Usage 
+ 
+See https://bio.informatik.uni-jena.de/passatutto/
