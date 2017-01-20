@@ -1,6 +1,8 @@
 # cite
 
-TODO
+__Significance estimation enabling large scale untargeted metabolomics annotations__  
+*Kerstin Scheubert, Franziska Hufsky, Daniel Petras, Mingxun Wang, Louis-Felix Nothias, Kai Dührkop, Nuno Bandeira, Pieter C Dorrestein, Sebastian Böcker*  
+submitted
 
 # Dependencies
 
